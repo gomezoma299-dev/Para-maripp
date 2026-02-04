@@ -1,0 +1,114 @@
+<!DOCTYPE
+
+
+  
+
+  
+
+  Mari 💖
+
+  
+
+
+
+  🦋
+
+  ❤️
+
+  🦋
+
+  ❤️
+
+  
+    💖 Mari 💖
+
+    
+      No todo lo bonito se dice en voz alta,
+
+      a veces solo se siente.
+
+
+
+
+
+  
+
+  
+
+  Mari 💖
+
+  
+
+
+
+  🦋
+
+  ❤️
+
+  🦋
+
+  ❤️
+
+  
+    💖 Mari 💖
+
+    
+      No todo lo bonito se dice en voz alta,
+
+      a veces solo se siente.
+
+
+ html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Para ti ❤️</title>
+    <style>
+        body { 
+            margin: 0; 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            background: linear-gradient(135deg, #ff758c, #ff7eb3); 
+            display: flex; 
+            align-items: center; 
+            justify-content: center; 
+            height: 100vh; 
+            color: #fff; 
+            text-align: center; 
+            overflow: hidden;
+        } 
+        .card { 
+            background: rgba(255, 255, 255, 0.2); 
+            backdrop-filter: blur(10px);
+            padding: 30px; 
+            border-radius: 20px; 
+            max-width: 85%; 
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2); 
+        } 
+        h1 { font-size: 1.8em; margin-bottom: 10px; } 
+        p { font-size: 1em; line-height: 1.5; } 
+        .heart { 
+            font-size: 4em; 
+            margin: 15px 0; 
+            animation: beat 1.2s infinite; 
+            display: inline-block;
+        } 
+        @keyframes beat { 
+            0%, 100% { transform: scale(1); } 
+            50% { transform: scale(1.2); } 
+        } 
+        footer { margin-top: 20px; font-size: 0.8em; opacity: 0.9; }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <h1>¡Feliz 14 de Febrero!</h1>
+        <div class="heart">❤️</div>
+        <p>Amor, si estás leyendo esto es porque quiero recordarte lo especial que eres para mí. Gracias por tu sonrisa, tu cariño y por hacer mis días más bonitos.</p>
+        <p>Este detalle es solo una pequeña forma de decirte que te quiero mucho y que me encanta compartir la vida contigo.</p>
+        <footer>Con todo mi amor, <br><strong>Omar</strong></footer>
+    </div>
+
+</body>
+</html>
